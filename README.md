@@ -4,7 +4,7 @@
 
 ![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
 
-## Instructor and Author
+## U.S. executions since 1977
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
 Instructor of Ancient History and Digital Humanities<br />
