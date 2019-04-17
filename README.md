@@ -1,10 +1,10 @@
-# Hacking Historical Texts Final Project Template
+# U.S. executions since 1977
 
 {% include css.html %}
 
 ![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
 
-## U.S. executions since 1977
+## U.S. executions since 
 
 [David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
 Instructor of Ancient History and Digital Humanities<br />
