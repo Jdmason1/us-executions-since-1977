@@ -1,18 +1,7 @@
-# Process & Problems 
+# Process 
 
-Describe your overall workflow here. Think of this as something like when a scientific paper describes their process. The idea is *repeatability*. People need to know how they can get a copy of the data. If you chopped up the data, altered it, or joined it with other data sets they need to know that too.
+When I first started this project, I was looking online for a database that I would be able to scrape using Webscraper so I would be able to pull a large amount of information quickly.  After a little looking I found Deathpenalty.org that had a chart filled with information I was able to use.  I had to mess around with Webscraper a little and I was able to pull the whole chart in its full form, after selecting it as a table I just had to click anywhere on it and Webscraper knew everything that was included.  It even went a step farther and before scraping the data I could check what I did and didn’t want it to pull.  After that I was on my way to Tableau with the Excel file from Webscraper to start making my graphs and charts to help better understand what information I had.  This was the fun part I was able to add in different dimensions and measure to find all these different outcomes; many I could have never guessed before.  
+ 
+# Problems
 
-Discuss (in detail) the processes of
-
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
-
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+I ran into a few small problems during the process, the first one and actually the most annoying was trying to figure out how to pull the data off multiple pages.  I was trying to pull information off of 50 pages but the first page didn’t have any numbers in its URL to indicate for the page I was on, however after clicking on the second page I saw “?page1” appear at the end of the URL.  Now I tried making my starting URL as “…?page[1-50]” but I did not realize though that would not include the first page with no page indicator in its URL.  So now I was just assuming and I attempted to add “?page[0-49]” at the end of my starting URL and that ended up working scraping all the data from pages 1-50. Once I got past that I ran into an issue with Webscraper converting my file into an Excel sheet, I originally checked all options from the graph in what I wanted to scrape but it was causing interference with each other and every time I’d load up Tableau states wouldn’t read right and the races were numbers and locations were numbers as well as a few more things messed up.  I tried opening up the Excel file and switch around what was messed up but what I changed wasn’t enough and the data was too extensive for me to go into all the details, so I went back to Webscraper and looked over what I wanted for this project, I ended up removing a few options from being scraped and had no problems after that loading up the files.  The last problem was an easy one once I got to learn how to use Tableau more, the age range of the people executed came into Tableau as a lump sum instead of each individual having their own age.  It took me awhile trying to figure out how to change it but eventually got it and it ended up being a simple drop-down menu and another box being checked to fix this issue.  
