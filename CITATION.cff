@@ -1,8 +1,8 @@
 cff-version: 1.0.3
 message: If you use this software, please cite it as below.
 authors:
-  - family-names: Thomas
-    given-names: Dave
-title: Hacking Historical Texts Final Project Template
+  - family-names: Mason
+    given-names: Joshua
+title: U.S. executions since 1977
 version: 1.0.0
-date-released: 2019-1-6
+date-released: 2019-4-30
