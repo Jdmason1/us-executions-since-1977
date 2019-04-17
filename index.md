@@ -13,7 +13,7 @@
 
 ## Home
 
-My project is set up to examine and analyze data through visualizes retaining to United States executions since 1977.  I am working from 1977 onward because for a short time the death penalty was suspended and called unconstitutional by the Supreme Court, that changed in 1976 with a new death penalty statute, reinstating it constitutional.  This is a very controversial subject among citizens today as it has been for year and I want to look to see if I can find any patterns in location, race, age and more. While doing so I want to compare Florida with the rest of the nation on our own executions.  I will be doing this all by using Webscraper for my data gathering and Tableau for all my visualizations.   
+My project is set up to examine and analyze data through visualizes retaining to United States executions since 1977.  I am working from 1977 onward because for a short time the death penalty was suspended and called unconstitutional by the United States Supreme Cour. That changed however in 1976 with a new death penalty statute, reinstating it as constitutional.  This is a very controversial subject among citizens today as it has been for year and I want to look to see if I can find any patterns or trends in location, race, age and more. While doing so I will be comparing Florida with the rest of the nation on our own executions.  I will be doing this all by using Webscraper for my data gathering and Tableau for all my visualizations.   
 
 ---
 
