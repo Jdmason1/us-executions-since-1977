@@ -4,13 +4,6 @@
 
 ![Title Image]({{ site.baseurl }}/assets/images/America (3).PNG)
 
-## Home
-
-.
-
----
-
-**[View the repository in GitHub](https://github.com/usf-portal/hacking-historical-texts-final)**
 
 ---
 
