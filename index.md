@@ -1,4 +1,4 @@
-# U.S. executions since 1977
+# U.S. executions since 1977 by numbers
 
 {% include css.html %}
 
