@@ -2,7 +2,7 @@
 
 {% include css.html %}
 
-![Title Image]({{ site.baseurl }}/assets/images/intro-image.png)
+![Title Image]({{ site.baseurl }}/assets/images/America (3).PNG)
 
 ## Instructor and Author
 
