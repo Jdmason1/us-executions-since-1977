@@ -1,4 +1,4 @@
-# Hacking Historical Texts Final Project Template
+# U.S. executions since 1977
 
 {% include css.html %}
 
