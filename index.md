@@ -11,7 +11,7 @@
 
 ---
 
-## Project Template
+## Home
 
 This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
 
