@@ -1,5 +1,5 @@
 title: Executions in the United States since 1977
-description: A description of your project (Change Me)
+description: Looking into age, location and the methods used in United States executions since 1977. 
 plugins:
   - jekyll-relative-links
 relative_links:
