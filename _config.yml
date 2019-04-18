@@ -1,5 +1,5 @@
 title: Executions in the United States since 1977
-description: Looking into age, location and the methods used in United States executions since 1977. 
+description: Looking into age, sex and the methods used in United States executions since 1977. Will be breaking it down into states and regions where these executions we're preformed and any trends that follow. 
 plugins:
   - jekyll-relative-links
 relative_links:
