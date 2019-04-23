@@ -10,6 +10,8 @@ YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
 ## Historical Background
 
+history of it here. talk middle ages and the types they used and how often it was such and such. the changes of when america was bonr and public executions got rid of in the late 1800s... to how we are trying to be nicer about killing people but still puniching and setting examples. 
+
 This is where your historiography goes. You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
 
 You have freedom to roam from the narrow topic of your project to explore how different authors/schools of thought have impacted scholarly approaches over time. However, make sure that in the end you clearly relate how this discussion relates to the subject of your project and/or your choices in methods or interpreative models.
