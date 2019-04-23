@@ -3,9 +3,7 @@
 ---
 
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
-
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
+We can follow executions back for thousand of years, I want to see when public support changed for them.  Why were public executions moved inside, is there a trend on what methods are used to carry out executions of a certain time period.  Any specific race or region of the U.S. stand out more than the others?  With my research online and data I was able to pull I plan on looking into all this and more. 
 
 ---
 
