@@ -3,7 +3,7 @@
 
 # Age
 
-![Age]({{ site.baseurl }}/assets/images/Age (3).PNG)
+[![Age]({{ site.baseurl }}/assets/images/Age (3).PNG)]({{ site.baseurl }}/assets/images/Age (3).PNG)
 
 To graphing the age the best approach I found was a scatter plot, originally starting with a line graph, that did not show the exact pin point of the ages and got a little to confusing to read so a scatter plot worked perfect for what was needed.  It starts off with relatively small numbers toward the lower ages, but you can see it gets to its highest number of record in the late 30s peaking the chart before it starts to lower back down as age goes up.  
 
