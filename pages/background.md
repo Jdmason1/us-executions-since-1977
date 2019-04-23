@@ -2,6 +2,7 @@
 
 ---
 
+
 Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
 
 YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
@@ -10,7 +11,7 @@ YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
 
 ## Historical Background
 
-history of it here. talk middle ages and the types they used and how often it was such and such. the changes of when america was bonr and public executions got rid of in the late 1800s... to how we are trying to be nicer about killing people but still puniching and setting examples. 
+history of it here. talk middle ages and the types they used and how often it was such and such. the changes of when america was bonr and public executions got rid of in the late 1800s... to how we are trying to be nicer about killing people but still puniching and setting examples. look for polls done to determine how popular exectuions have been or are now.
 
 This is where your historiography goes. You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
 
