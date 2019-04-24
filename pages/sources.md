@@ -1,35 +1,18 @@
 # Sources
 
-This is where your source analysis of any/all data should go. Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](../README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
----
-
-## Basic Source Information
-
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
-
----
-
-## Authorship
-
-* Is there any information available discussing the process by which the information was gathered, or how the digital project was constructed?
-* How transparent is the project about the choices they made in gathering and transforming the data for digitalization? [Click here for an example of a an excellent 'About' page from a database about Anglo-Saxons](http://www.pase.ac.uk/about/index.html)
-* Do the organizations or individuals involved in gathering and publishing your data set have any stated goals or agendas?
-* Do the organizations or individuals involved seem to have any unstated agendas or goals?
-* If a 3rd party funded the project, who are they? Do they have any particular perspective?
-
----
-
-## Data Analysis
-
-* Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
-* What kinds of categorizations do you find in the data, and do they seem reasonable?
-* Do the means of data collection or categorization affect how the data is constructed in any way?
-* Does the website contain any tools for visualizing the data? Do they seem like they are making any kind of arguments?
+1. Death penalty info authors. States With and Without the Death Penalty. DeathPenaltyinfo.org 2019. https://deathpenaltyinfo.org/states-and-without-death-penalty
+No source of where they got their information from.  Easy organization of the facts though, direct to the point on with visual and list on where each state stood. Non-profit organization 
+2. Reggio, Michael H. History of the Death Penalty. pbs.org. 1999. https://www.pbs.org/wgbh/frontline/article/history-of-the-death-penalty/
+Multiple sources listed at the end of his article for where he got his information. Funding for FRONTLINE is provided through the support of PBS viewers. No bias input from the author. 
+3. Death penalty info authors. Facts about the Death Penalty. DeathPenaltyinfo.org 2019. https://deathpenaltyinfo.org/documents/FactSheet.pdf
+List of sources where they gathered their information.  Many visual aids to help understand the data, pushing money cost more than anything in pdf, non-profit organization.
+4. Death penalty info authors. National Polls and Studies. DeathPenaltyinfo.org 2018. https://deathpenaltyinfo.org/national-polls-and-studies
+Links to most polls provided in this list with at least the site that conducted the poll with dates.  No bias obvious in the polls the chose, a slow drop in approve but lines up correctly, non-profit organization. 
+5. History.com authors. Executions in the Middle Ages. History.com. https://www.history.co.uk/shows/britains-bloodiest-dynasty/articles/execution-in-the-middle-ages
+No information given on where their data was collected. No goals were obvious from the authors, had a list of different forms of execution used and what they were.
+6. History.com authors. Supreme Court strikes down death penalty. History.com. 2010. https://www.history.com/this-day-in-history/supreme-court-strikes-down-death-penalty
+Used to fact check myself, no outside sources are listed for this short article.  Concludes the out come of the Supreme Courts ruling and that is all. 
+7. CNN Library. Death Penalty Fast Facts. CNN.com. 2013. https://www.cnn.com/2013/07/19/us/death-penalty-fast-facts/index.html 
+Another site used to double check my information, no sources given, and CNN receives money mainly from a group that does not support the death penalty. 
+8. List of individuals executed in Florida. Wikipedia.com. 2019. https://en.wikipedia.org/wiki/List_of_individuals_executed_in_Florida#cite_note-fadp-1
+Used as an extra source to double check my Florida info, multiple sources listed on where information was gathered. Funded through non-profits.
