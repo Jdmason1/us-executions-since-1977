@@ -1,6 +1,7 @@
 # Analysis
 ---
 
+The data I collected was very easily made much clear with the use of charts and graphs and really started to give a picture of trends.  I have found that 1,493 individuals have been executed in the past 42 years.  I can also tell from what data I have collected that most executions since 1977 have been males, with over 88% of these people have gone by lethal injection. Also, I noticed that the greatest number of them have been executed in between 30 to 50 years of age.  
 
 # Age
 
